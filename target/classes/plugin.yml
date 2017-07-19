@@ -1,0 +1,4 @@
+name: Vektor
+version: 1.0
+main: org.cyberpwn.vektor.Vektor
+description: Better use of velocity
